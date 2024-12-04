@@ -21,5 +21,5 @@
 
 
 
-### This application (mini-project) is build with several/many libraries, look at each license available in the node_modules folder, or for more specifics look at the *package.json* file (Backend & Frontend). 
+### This application (mini-project) is build with several/many libraries, look at each license available in the node_modules folder (after running 'npm install' command for each folder), or for more specifics look at the *package.json* file (Backend & Frontend). 
 
