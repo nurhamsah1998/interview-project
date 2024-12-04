@@ -2,7 +2,7 @@
 
 ## DEVELOPMENT RUNNING
    ### Database
-   Install [PGadmin 4]([https://www.pgadmin.org/download/](https://www.pgadmin.org/download/pgadmin-4-windows/))
+   Install [pg admin 4](https://www.pgadmin.org/download/pgadmin-4-windows/) for database
    
    ### Backend
     cd .\back-end\
