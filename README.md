@@ -23,3 +23,10 @@
 
 ### This application (mini-project) is build with several/many libraries, look at each license available in the node_modules folder (after running 'npm install' command for each folder), or for more specifics look at the *package.json* file (Backend & Frontend). 
 
+# Screenshot
+![tyjytj4ert](https://github.com/user-attachments/assets/794a231e-edbf-43f4-9a46-1d42b5f4c3dd)
+![weg](https://github.com/user-attachments/assets/b2993dd9-04bf-4c15-8fe0-568b947f0745)
+![Capture](https://github.com/user-attachments/assets/3aac1594-7011-4088-babe-8b4ebf7bc602)
+![sdfwefwef](https://github.com/user-attachments/assets/2d4f7045-297c-4eaf-9b2d-00fe5cb5c7bc)
+
+
