@@ -1,3 +1,6 @@
+# This is simple app news post, i build with simple environment. Here I don't use complex technology, because my goal is only to achieve the necessary requirements, according to the email interview invitation.
+
+
 ### Mini Project
 
 ## DEVELOPMENT RUNNING
