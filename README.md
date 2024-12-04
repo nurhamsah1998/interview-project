@@ -3,7 +3,7 @@
 
 ### Mini Project
 
-## DEVELOPMENT RUNNING
+## DEVELOPMENT RUNNING (Node Version : 20.7.0)
    ### Database
    Install [pg admin 4](https://www.pgadmin.org/download/pgadmin-4-windows/) for database
    
